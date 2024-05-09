@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    border: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 90%;
+}
+
+.bg-grey {
+    background-color: lightgrey;
+}
+
+
+input[name="q"] {
+    padding: 1px 2px;
+  }
+
+
+.box1 {
+    width: 37%;
+    background-color: #7EE5DA;
+}
+
+.box2 {
+    font-size: smaller;
+    background-color: #70CCC2;
+}
+
+.box3 {
+    padding: 0px;
+    background-color: #62B3AA;
+}
+
+.box3>span {
+    font-size: smaller;
+}
+
+p {
+    font-size: smaller;
+    text-align: center;
+    margin: 0;
+}
